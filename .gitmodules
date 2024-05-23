@@ -1,3 +1,9 @@
 [submodule "verus-master"]
 	path = verus-master
 	url = https://github.com/yzaki/verus.git
+[submodule "HONserver-main"]
+	path = HONserver-main
+	url = git@github.com:liiuhaao/HONServer.git
+[submodule "HONAPP-main"]
+	path = HONAPP-main
+	url = https://github.com/liiuhaao/HONAPP.git
