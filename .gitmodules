@@ -1,0 +1,3 @@
+[submodule "verus-master"]
+	path = verus-master
+	url = https://github.com/yzaki/verus.git
